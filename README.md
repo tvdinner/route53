@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tvdinner/route53.png?branch=master)](https://travis-ci.org/tvdinner/route53)
+
 # route53 cookbook
 
 # Requirements
