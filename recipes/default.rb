@@ -28,5 +28,3 @@ end
 chef_gem "fog" do
   action :install
 end
-
-
